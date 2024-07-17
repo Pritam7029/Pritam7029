@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pritam7029
-- 👀 I’m interested in game developement.
-- 🌱 I’m currently learning unity and c# .
+- 👀 I’m interested in game developement, Web dev, AI/ML.
+- 🌱 I’m currently learning and revisioning my basics for further development of my skills.
 - 💞️ I’m looking to collaborate on Projects that are based on python, C#, Web development as well as ML. 
-- 📫 How to reach me 
+- 📫 How to reach me  : 
 Email : pritamchakraborty7029@gmail.com
 
 <!---
